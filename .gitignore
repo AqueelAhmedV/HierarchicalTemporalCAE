@@ -1,0 +1,13 @@
+.vscode
+venv
+**/__pycache__
+
+**/*.md
+**/*.pdf
+**/*.html
+
+data
+
+weights
+
+img
