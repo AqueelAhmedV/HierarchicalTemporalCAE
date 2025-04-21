@@ -1,0 +1,23 @@
+{
+    "train_size_80": {},
+    "train_size_80_tcae": {
+        "train_size": 80,
+        "model_type": "tcae",
+        "train_mse": 0.012837925980244134,
+        "test_mse": 0.012834352133471833,
+        "train_time_s": 0,
+        "pred_time_s": 0.86
+    },
+    "train_size_80_hcae": {
+        "status": "error",
+        "message": "'loss'",
+        "train_size": 80,
+        "model_type": "hcae"
+    },
+    "train_size_80_htcae": {
+        "status": "error",
+        "message": "'loss'",
+        "train_size": 80,
+        "model_type": "htcae"
+    }
+}
