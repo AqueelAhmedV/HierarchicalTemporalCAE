@@ -1,0 +1,16 @@
+.vscode
+venv
+**/__pycache__
+
+**/*.md
+**/*.pdf
+**/*.html
+
+**/*.keras
+# **/*.h5
+
+data
+
+weights
+
+img

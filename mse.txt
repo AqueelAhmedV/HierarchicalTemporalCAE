@@ -1,0 +1,11 @@
+train size = 50
+Training MSE: 0.000089
+Test MSE: 0.000493
+
+train size = 80
+Training MSE: 0.000095
+Test MSE: 0.000072
+
+train size = 120
+Training MSE: 0.000035
+Test MSE: 0.000024
